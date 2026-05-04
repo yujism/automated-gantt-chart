@@ -298,23 +298,7 @@ Contributions welcome! Untuk bug reports, feature requests, atau pull requests:
 
 ### Main Interface
 ```
-┌──────────────────────────────────────────────────────────────┐
-│ Sidebar                  │ Gantt Chart                       │
-│ ┌──────────────────┐    │ ┌─────────────────────────────┐  │
-│ │ Production Planning   │ │ Jan 2025    Feb 2025        │  │
-│ │ Project Name     │    │ │ 1 2 3 ... 28 29 30 31 1 2 3 │  │
-│ └──────────────────┘    │ ├─────────────────────────────┤  │
-│                          │ │ Product 1                   │  │
-│ Products                 │ │ ├ SM        [████]          │  │
-│ ┌──────────────────┐    │ │ ├ Production    [████████]  │  │
-│ │ Product 1        │    │ │ ├ Packing           [██]    │  │
-│ │ Start: 2025-06-01│    │ │ └ Stuffing           [█]    │  │
-│ │ ☑ SM       3d    │    │ │                             │  │
-│ │ ☑ Production 10d │    │ │ Product 2                   │  │
-│ │ ☑ Packing   2d   │    │ │ ├ SM          [████]        │  │
-│ │ ☐ Rework SM skip │    │ │ └ ...                       │  │
-│ └──────────────────┘    │ └─────────────────────────────┘  │
-└──────────────────────────────────────────────────────────────┘
+gantt-chart-screeshots.png
 ```
 
 ---
