@@ -298,7 +298,7 @@ Contributions welcome! Untuk bug reports, feature requests, atau pull requests:
 
 ### Main Interface
 ```
-gantt-chart-screeshots.png
+(gantt-chart-screeshots.png)
 ```
 
 ---
